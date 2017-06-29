@@ -7,6 +7,6 @@ hooks:
 
 AfterInstall:
 
-   - location: /home/ec2-user/coderun.sh
+   - location: coderun.sh
 
      runas: root
